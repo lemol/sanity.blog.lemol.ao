@@ -7,6 +7,7 @@
   "author": "Leza Morais Lutonda <lemol-c@hotmail.com>",
   "license": "UNLICENSED",
   "scripts": {
+    "build": "sanity build public",
     "start": "sanity start",
     "test": "sanity check"
   },
